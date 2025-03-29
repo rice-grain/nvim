@@ -1,1 +1,2 @@
-print("EO NeoVim")
+require("core")
+require("plugins")
