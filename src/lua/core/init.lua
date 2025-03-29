@@ -1,2 +1,2 @@
-require("defaults")
-require("keymaps")
+require("core.defaults")
+require("core.keymaps")
