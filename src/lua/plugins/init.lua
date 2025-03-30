@@ -28,4 +28,5 @@ require("lazy").setup({
   { "echasnovski/mini.indentscope",     version = "*" },
   { "echasnovski/mini.starter",         version = "*" },
   { "echasnovski/mini.notify",          version = "*" },
+  { "echasnovski/mini.cursorword",      version = "*" },
 })
