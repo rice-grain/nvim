@@ -19,4 +19,9 @@ require("lazy").setup({
   -- Search
   { "nvim-telescope/telescope.nvim" },
   { "folke/which-key.nvim", opts = { preset = "helix" } },
+
+  -- Mini
+  { "echasnovski/mini.move", version = "*" }
 })
+
+"
