@@ -1,3 +1,6 @@
 require("mini.move").setup()
 require("mini.pairs").setup()
+require("mini.notify").setup()
 require("mini.animate").setup()
+require("mini.starter").setup()
+require("mini.indentscope").setup()

@@ -23,5 +23,8 @@ require("lazy").setup({
   -- Mini
   { "echasnovski/mini.move",            version = "*" },
   { "echasnovski/mini.pairs",           version = "*" },
-  { 'echasnovski/mini.animate',         version = '*' },
+  { "echasnovski/mini.animate",         version = "*" },
+  { "echasnovski/mini.indentscope",     version = "*" },
+  { "echasnovski/mini.starter",         version = "*" },
+  { "echasnovski/mini.notify",          version = "*" },
 })
