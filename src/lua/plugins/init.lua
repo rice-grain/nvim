@@ -23,5 +23,3 @@ require("lazy").setup({
   -- Mini
   { "echasnovski/mini.move", version = "*" }
 })
-
-"
