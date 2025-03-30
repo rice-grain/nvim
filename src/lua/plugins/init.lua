@@ -12,6 +12,7 @@ require("lazy").setup({
   { "Mofiqul/dracula.nvim" },
 
   -- UI
+  { "folke/noice.nvim" },
   { "akinsho/bufferline.nvim" },
   { "nvim-tree/nvim-tree.lua" },
   { "akinsho/toggleterm.nvim" },
