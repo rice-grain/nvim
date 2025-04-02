@@ -15,3 +15,6 @@ vim.opt.clipboard = "unnamedplus"
 -- Splitting
 vim.opt.splitbelow = true
 vim.opt.splitright = true
+
+-- Misc
+vim.diagnostic.config({ virtual_text = true })
