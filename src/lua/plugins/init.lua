@@ -18,6 +18,7 @@ require("lazy").setup({
   { "akinsho/toggleterm.nvim" },
 
   -- Search
+  { "mg979/vim-visual-multi" },
   { "nvim-telescope/telescope.nvim" },
   { "folke/which-key.nvim",             opts = { preset = "helix" } },
 
