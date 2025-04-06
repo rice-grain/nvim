@@ -3,6 +3,9 @@ local cmp = require("cmp")
 cmp.setup({
   sources = {
     {name = "nvim_lsp"},
+    {name = "path"},
+    {name = "cmdline"},
+    {name = "buffer", keyword_length = 3},
   },
   mapping = cmp.mapping.preset.insert({
     -- Navigate between completion items
