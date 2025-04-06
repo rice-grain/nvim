@@ -17,4 +17,5 @@ vim.opt.splitbelow = true
 vim.opt.splitright = true
 
 -- Misc
+vim.opt.scrolloff = 10
 vim.diagnostic.config({ virtual_text = true })
